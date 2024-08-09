@@ -42,7 +42,6 @@ body {
     font-weight: bolder;
     font-size: x-large;
     text-shadow: 0px 0px 3px #ffffff, -1px -1px #ffffff, 1px 1px #ffffff;
-    display: flex;
     justify-content: center;
     text-align: center;
 }
