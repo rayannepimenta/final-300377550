@@ -16,7 +16,7 @@ html, body {
 body {
     width: 75%;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 #banner {
